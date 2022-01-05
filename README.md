@@ -3,9 +3,13 @@ Pewlett Hackard (PH) is a large company with thousands of employees and the comp
 The new task is to analyze the given data to determine the number of retiring employees per title, and to identify employees who are eligible to participate in the mentorship program. This analysis will help Bobby’s manager prepare for the upcoming “silver tsunami” as employees reach retirement age.
 
 ## Results
+
 After eliminating the duplicate names, the analysis showed that there were just over 90,000 rows in the ‘unique title’ table.
+
 From the analysis, the title ‘Staff’ had the highest number of employees (by their most recent job) who are a about to retire – just over 32,000
+
 The lowest number of employees about to retire was seen in the Assistant Engineer job title – 1,761
+
 From the ‘mentorship eligibility’ table role count, 1549 people are eligible
 
 ## Summary:
